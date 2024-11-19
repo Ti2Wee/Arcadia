@@ -1,6 +1,6 @@
 <header>
     <div class="logo-container">
-        <img src="logo.webp" alt="Logo Arcadia" class="logo">
+        <img src="assets/images/logo.webp" alt="Logo Arcadia" class="logo">
         <h1></h1>
     </div>
     <nav>

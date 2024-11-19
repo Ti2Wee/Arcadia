@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Accueil - Zoo Arcadia</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
     <?php include 'header.php'; ?>
@@ -23,9 +23,9 @@
 
     <!-- Section Photos -->
     <div class="hero-photos">
-        <img src="rose.jpg" alt="Savane" class="hero-photo">
-        <img src="roux.jpg" alt="Jungle" class="hero-photo">
-        <img src="oran.jpg" alt="Arctique" class="hero-photo">
+        <img src="assets/images/rose.jpg" alt="Savane" class="hero-photo">
+        <img src="assets/images/roux.jpg" alt="Jungle" class="hero-photo">
+        <img src="assets/images/oran.jpg" alt="Arctique" class="hero-photo">
     </div>
 </section>
 
@@ -53,9 +53,9 @@
         <section class="gallery">
             <h2>Photos</h2>
             <div class="photo-grid">
-                <img src="zebres-accueil.jpg" alt="Photo du zoo 1" class="gallery-photo">
-                <img src="accueil-singe.jpg" alt="Photo du zoo 2" class="gallery-photo">
-                <img src="accueil-tigre.jpg" alt="Photo du zoo 3" class="gallery-photo">
+                <img src="assets/images/zebres-accueil.jpg" alt="Photo du zoo 1" class="gallery-photo">
+                <img src="assets/images/accueil-singe.jpg" alt="Photo du zoo 2" class="gallery-photo">
+                <img src="assets/images/accueil-tigre.jpg" alt="Photo du zoo 3" class="gallery-photo">
             </div>
         </section>
     </main>
